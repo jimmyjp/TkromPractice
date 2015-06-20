@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tkrom Practice</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="activity_filtered">Elementos Filtrados</string>
+
+    <string name="codeHint">Codigo</string>
+    <string name="nameHint">Nombre</string>
+    <string name="ageHint">Edad</string>
+    <string name="cityHint">Localidad</string>
+
+    <string name="ins">Ins</string>
+    <string name="act">Act</string>
+    <string name="elim">Elim</string>
+    <string name="cons">Cons</string>
+    <string name="drop">Drop</string>
+    <string name="filtrar">Filtrar</string>
+    <string name="title_activity_ficha_usuario">FichaUsuario</string>
+
+    <string name="imgDescripcion">Imagen de usuario</string>
+    <string name="title_activity_show_xml_data">ShowXmlData</string>
+
+    <string name="showXml">Show XML</string>
+    <string name="searchHint">Búsqueda por contenido</string>
+
+</resources>
